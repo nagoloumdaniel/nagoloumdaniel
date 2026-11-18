@@ -35,8 +35,8 @@ Tous les projets ci-dessous sont détaillés sur [nagoloum.dev](https://nagoloum
 | Projet | Description | Liens |
 |---|---|---|
 | **BuildIt** | Une CLI et un configurateur web qui assemblent un environnement de développement cohérent. | [Démo](https://buildit.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/BuildIt) |
-| **CampaignMailer** | Campagnes d'e-mails envoyées depuis son propre compte Gmail, avec suivi d'envoi. | [Démo](https://campaign-mailer.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/Campaign-Mailer) |
-| **Clairivo** | Boutique française de ressources numériques, paiement par carte et espace client. | [Démo](https://clairivo.nagoloum.dev) |
+| **CampaignMailer** | Campagnes d'e-mails envoyées depuis son propre compte Gmail, avec suivi d'envoi. | [Démo](https://campaignmailer.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/Campaign-Mailer) |
+| **Clairivo** | Boutique française de ressources numériques, paiement par carte et espace client. | [Démo](https://www.clairivo.org) |
 | **Cyna** | Plateforme SaaS de cybersécurité en abonnement, avec backoffice administrateur. | [Démo](https://cyna.nagoloum.dev) · [Interface](https://github.com/nagoloumdaniel/Frontend_cyna) · [API](https://github.com/nagoloumdaniel/Backend_cyna) |
 | **Findit** | Agent qui collecte et publie des offres d'emploi, avec un espace candidat. | [Démo](https://findit.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/Findit) |
 | **Hairstyle by Patricia** | Vitrine, catalogue et réservation en ligne pour une coiffeuse à Dakar. | [Démo](https://hairstylebypati.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/HairStyleByPati) |
