@@ -1,138 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=180&section=header&text=Daniel%20Nagoloum&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D%C3%A9veloppeur%20Full-Stack%20%C2%B7%20%C3%89tudiant%20en%20Mast%C3%A8re%20D%C3%A9veloppement%20Logiciel&descSize=16&descAlignY=60" alt="banner" />
+# Daniel Nagoloum
 
-<a href="https://github.com/nagoloumdaniel">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=640&lines=%F0%9F%8E%93+Mast%C3%A8re+D%C3%A9veloppement+Logiciel;%F0%9F%9A%80+%C3%80+la+recherche+d'une+alternance+(24+mois);%F0%9F%93%8D+%C3%8Ele-de-France;%E2%9A%9B%EF%B8%8F+React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS" alt="Typing SVG" />
-</a>
+Développeur full-stack. Étudiant en Mastère Développement Logiciel.<br/>
+À la recherche d'une alternance de 24 mois en Île-de-France.
 
-<br/>
-
-<a href="https://nagoloum.vercel.app"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-nagoloum.vercel.app-6366f1?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/nagoloum"><img src="https://img.shields.io/badge/LinkedIn-nagoloum-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<img src="https://img.shields.io/badge/Alternance-Disponible-22c55e?style=for-the-badge" alt="Disponible"/>
+[Portfolio](https://nagoloum.dev) · [LinkedIn](https://www.linkedin.com/in/nagoloum)
 
 </div>
 
----
-
-## 👋 À propos
-
-Étudiant en **Mastère Développement Logiciel** (INGETIS), je recherche une **alternance de 24 mois** en Île-de-France (rythme 3 semaines entreprise / 1 semaine école) sur des missions **Full-Stack, Frontend ou Backend** autour de l'écosystème JavaScript / TypeScript.
-
-- 🔭 Je construis des applications web complètes, de l'interface à l'API et à la base de données
-- 🧪 J'accorde de l'importance aux tests (Vitest, Jest, Playwright) et à l'intégration continue
-- 🌱 Je continue d'approfondir l'architecture backend (NestJS, files de jobs, OAuth)
-
-## 🛠️ Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,nestjs,postgres,mongodb,prisma,redis,docker,git,github,githubactions,vercel,vite,jest&perline=9" alt="Stack" />
-
-</div>
-
-<details>
-<summary><b>📋 Détail par domaine (cliquer pour déplier)</b></summary>
-
 <br/>
 
-| Domaine | Technologies |
+## À propos
+
+Je construis des applications web complètes, de l'interface à l'API et à la base de données. J'écris des tests (Vitest, Jest, Playwright), je mets en place l'intégration continue et j'approfondis l'architecture backend : NestJS, files de jobs, OAuth.
+
+Études : Mastère Développement Logiciel, INGETIS, rythme 3 semaines en entreprise pour 1 semaine en école.
+
+## Stack
+
+|  |  |
 |---|---|
-| 🎨 Frontend | React, Next.js, TypeScript, Tailwind CSS |
-| ⚙️ Backend | Node.js, Express, NestJS |
-| 🗄️ Bases de données | PostgreSQL, MongoDB, Prisma |
-| 🧰 Outils | Git, GitHub Actions, Docker, Playwright, Vercel |
+| Frontend | React, Next.js, TypeScript, Tailwind CSS |
+| Backend | Node.js, Express, NestJS |
+| Données | PostgreSQL, MongoDB, Prisma, Redis |
+| Outils | Git, GitHub Actions, Docker, Playwright, Vercel |
 
-</details>
+## Projets
 
-## 🚀 Projets à la une
+Tous les projets ci-dessous sont détaillés sur [nagoloum.dev](https://nagoloum.dev/portfolio).
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### En ligne
 
-### 📧 [Campaign-Mailer](https://github.com/nagoloumdaniel/Campaign-Mailer)
-Envoi de campagnes d'e-mails personnalisées depuis son propre Gmail : OAuth, file d'envoi BullMQ/Redis, historique, tests E2E.
+| Projet | Description | Liens |
+|---|---|---|
+| **BuildIt** | Une CLI et un configurateur web qui assemblent un environnement de développement cohérent. | [Démo](https://buildit.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/BuildIt) |
+| **CampaignMailer** | Campagnes d'e-mails envoyées depuis son propre compte Gmail, avec suivi d'envoi. | [Démo](https://campaign-mailer.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/Campaign-Mailer) |
+| **Clairivo** | Boutique française de ressources numériques, paiement par carte et espace client. | [Démo](https://clairivo.nagoloum.dev) |
+| **Cyna** | Plateforme SaaS de cybersécurité en abonnement, avec backoffice administrateur. | [Démo](https://cyna.nagoloum.dev) · [Interface](https://github.com/nagoloumdaniel/Frontend_cyna) · [API](https://github.com/nagoloumdaniel/Backend_cyna) |
+| **Findit** | Agent qui collecte et publie des offres d'emploi, avec un espace candidat. | [Démo](https://findit.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/Findit) |
+| **Hairstyle by Patricia** | Vitrine, catalogue et réservation en ligne pour une coiffeuse à Dakar. | [Démo](https://hairstylebypati.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/HairStyleByPati) |
+| **MailFind** | Transforme une liste d'entreprises en adresses e-mail professionnelles classées. | [Démo](https://mailfind.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/MailFind) |
+| **NagosUI** | Design system React animé, avec site de documentation. | [Démo](https://nagosui.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/NagosUI) |
+| **QR Studio** | Générateur de QR codes personnalisables, exécuté dans le navigateur. | [Démo](https://qrstudio.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/QrStudioAd) |
+| **RememberMe** | Gestionnaire de tâches et de rappels par listes, interface React et API Express. | [Démo](https://rememberme.nagoloum.dev) · [Interface](https://github.com/nagoloumdaniel/Frontend_RememberMe) · [API](https://github.com/nagoloumdaniel/Backend_RememberMe) |
+| **Sarielle Fashion** | Site bilingue FR / DE avec réservation et back-office pour un salon en Allemagne. | [Démo](https://sariellefashion.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/SarielleFashion) |
+| **TradingAgent** | Plateforme de trading algorithmique : backtests, garde-fous de risque, compte de démonstration. | [Démo](https://tradingagent.nagoloum.dev) · [Code](https://github.com/nagoloumdaniel/TradingAgent) |
 
-![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-dc382d?logo=redis&logoColor=white)
+### En développement
 
-[🔗 Démo](https://campaignmailer.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/Campaign-Mailer)
+| Projet | Description | Liens |
+|---|---|---|
+| **Allibuy** | Marketplace multi-vendeurs pensée mobile-first pour le marché africain. | Dépôt privé |
+| **AutoclipYT** | Studio YouTube sans visage assisté par IA, de l'idée à l'export. | [Code](https://github.com/nagoloumdaniel/AutoclipYT) |
+| **Fanours** | Plateforme e-commerce B2B et B2C avec prix dégressifs et devis. | [Code](https://github.com/nagoloumdaniel/Fanours) |
+| **KYC Checker** | Moteur de vérification de pièces d'identité avec décision explicable. | [Code](https://github.com/nagoloumdaniel/KYC-Checker) |
+| **Zolya** | Marketplace de seconde main au Cameroun, paiement Mobile Money par séquestre. | Dépôt privé |
 
-</td>
-<td width="50%" valign="top">
+## Expérience
 
-### 🔎 [Findit](https://github.com/nagoloumdaniel/Findit)
-Agent de collecte web qui découvre, extrait et publie des offres d'alternance et de stage en développement en Île-de-France.
+**DATALIA, 2026.** Stage de développement web : projet KILICASA, interfaces en React.
 
-![NestJS](https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![BullMQ](https://img.shields.io/badge/BullMQ-f59e0b)
-
-[🔗 Démo](https://finditfr.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/Findit)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [Tynoc-ecom](https://github.com/nagoloumdaniel/Tynoc-ecom)
-Application e-commerce Next.js avec DynamoDB (single-table design) et tests Playwright.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053d6?logo=amazondynamodb&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?logo=playwright&logoColor=white)
-
-[🔗 Démo](https://tynoc-ecom.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/Tynoc-ecom)
-
-</td>
-<td width="50%" valign="top">
-
-### 📬 [MailFind](https://github.com/nagoloumdaniel/MailFind)
-Transforme une liste d'entreprises en adresses e-mail professionnelles vérifiées.
-
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61dafb) ![Redis](https://img.shields.io/badge/Redis-dc382d?logo=redis&logoColor=white)
-
-[🔗 Démo](https://mailfind.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/MailFind)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 [Cyna — Frontend](https://github.com/nagoloumdaniel/Frontend_cyna)
-Interface React / Vite avec Redux Toolkit et Tailwind CSS.
-
-[🔗 Démo](https://cynaapp.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/Frontend_cyna)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧱 [Cyna — API](https://github.com/nagoloumdaniel/Backend_cyna)
-API NestJS documentée avec Swagger, MongoDB et paiement Stripe.
-
-[🔗 API](https://cynaapi.vercel.app) · [💻 Code](https://github.com/nagoloumdaniel/Backend_cyna)
-
-</td>
-</tr>
-</table>
-
-## 💼 Expérience
-
-- **DATALIA (2026)** — Stage de développement web : projet KILICASA, interfaces en React.js
-
-## 📈 Activité GitHub
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagoloumdaniel&theme=tokyonight&hide_border=true" alt="Streak" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagoloumdaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Langages" height="160"/>
-
-</div>
-
-## 📫 Me contacter
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nagoloum"><img src="https://img.shields.io/badge/Discuter_sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://nagoloum.vercel.app"><img src="https://img.shields.io/badge/Voir_mon-Portfolio-6366f1?style=for-the-badge" alt="Portfolio"/></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=100&section=footer" alt="footer" />
+[nagoloum.dev](https://nagoloum.dev) · [LinkedIn](https://www.linkedin.com/in/nagoloum)
 
 </div>
